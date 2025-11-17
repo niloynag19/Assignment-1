@@ -34,7 +34,7 @@
 
     ভ্যারিয়েবলটি string বা number হতে পারে।
 
-    Exaple:
+    Example:
     ```ts
         type UserRole="admin"|"user";
 
